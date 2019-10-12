@@ -1,0 +1,16 @@
+#include<stdio.h>
+int sum(int* a,int len){
+	int i,j,k,sum,sum2;
+	for(k=0;k<len;k=k+2+){
+		for(i=0;i<=len;i=i+2+k){
+			if(a[i]==a[i+2+k)
+				sum=a[i]+a[i+k+1]
+		}
+	return j;
+}
+int main(){
+	int a[6]={9,4,3,0,7,2,3};
+	int rs=sum(a,6);
+	printf("%d",rs);
+	return 0;
+}
