@@ -1,5 +1,5 @@
 
-//modified
+//Nafees Ahmad Ansari
 #include<stdio.h>
 #include<string.h>
 void charcheck(char *a,int len){
